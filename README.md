@@ -1,5 +1,35 @@
 # Project Lighthouse
 
+## Project Workflow
+
+```text
+Research Questions
+        │
+        ▼
+Official Public Sources
+        │
+        ▼
+Evidence Collection
+        │
+        ▼
+Human Verification
+        │
+        ▼
+Insight Generation
+        │
+        ▼
+Visual Communication
+```
+
+## Repository Overview
+
+| Section | Purpose |
+|---------|---------|
+| 00_Project_Notes | Research planning and guiding questions |
+| 01_Raw_Sources | Verified evidence collected from official public sources |
+| 02_Insights | Evidence-backed analytical observations |
+| 03_Visuals | Visual summaries and workflow diagrams |
+
 > **An evidence-based company intelligence case study built using publicly available information.**
 
 ## Overview
