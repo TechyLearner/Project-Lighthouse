@@ -2,6 +2,11 @@
   <img src="assets/banner.png" alt="Project Lighthouse Banner" width="100%">
 </p>
 
+![Status](https://img.shields.io/badge/Status-Version%201.0-success)
+![Methodology](https://img.shields.io/badge/Methodology-Evidence--First-blue)
+![Case Study](https://img.shields.io/badge/Case%20Study-TransUnion%20CIBIL-0052CC)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Project Lighthouse
 
 ### Evidence-Based Company Intelligence Case Study
