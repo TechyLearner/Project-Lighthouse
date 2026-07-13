@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Project Lighthouse Banner" width="100%">
+</p>
 # Project Lighthouse
 
 ### Evidence-Based Company Intelligence Case Study
