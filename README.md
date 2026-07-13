@@ -1,5 +1,25 @@
 # Project Lighthouse
 
+### Evidence-Based Company Intelligence Case Study
+
+> A structured analysis of **TransUnion CIBIL** built entirely from publicly available information using an evidence-first methodology.
+
+---
+
+## Objective
+
+Project Lighthouse demonstrates a structured approach to researching and analyzing a company using only official public information.
+
+Rather than producing a generic company summary, this project emphasizes:
+
+- Evidence collection
+- Human verification
+- Analytical thinking
+- Insight generation
+- Professional documentation
+
+---
+
 ## Project Workflow
 
 ```text
@@ -21,56 +41,29 @@ Insight Generation
 Visual Communication
 ```
 
-## Repository Overview
-
-| Section | Purpose |
-|---------|---------|
-| 00_Project_Notes | Research planning and guiding questions |
-| 01_Raw_Sources | Verified evidence collected from official public sources |
-| 02_Insights | Evidence-backed analytical observations |
-| 03_Visuals | Visual summaries and workflow diagrams |
-
-> **An evidence-based company intelligence case study built using publicly available information.**
-
-## Overview
-
-Project Lighthouse demonstrates a structured approach to researching and analyzing a company using only public sources.
-
-This case study focuses on **TransUnion CIBIL** and showcases:
-
-- Open-source business research
-- Evidence collection
-- Insight generation
-- Analytical thinking
-- Professional documentation
-
 ---
 
-## Repository Structure
+## Repository Overview
 
-```
-00_Project_Notes/
-Research questions and project planning
-
-01_Raw_Sources/
-Verified evidence collected from official public sources
-
-02_Insights/
-Evidence-backed analytical insights
-
-03_Visuals/
-Visual summaries and intelligence canvas
-```
+| Folder | Purpose |
+|---------|---------|
+| `00_Project_Notes` | Research planning and guiding questions |
+| `01_Raw_Sources` | Verified evidence collected from official public sources |
+| `02_Insights` | Evidence-backed analytical insights |
+| `03_Visuals` | Workflow diagrams and visual summaries |
 
 ---
 
 ## Research Methodology
 
-1. Collect evidence from official public sources.
-2. Separate facts from observations.
-3. Remove unsupported speculation.
-4. Generate evidence-backed insights.
-5. Present findings visually.
+This project follows an evidence-first workflow:
+
+1. Define research questions.
+2. Collect information from official public sources.
+3. Separate facts from observations.
+4. Verify and remove unsupported claims.
+5. Generate evidence-backed insights.
+6. Present findings through structured documentation and visuals.
 
 ---
 
@@ -88,8 +81,20 @@ Visual summaries and intelligence canvas
 ## Key Insights
 
 - Analytics appears to be a core business capability.
-- The company serves both enterprise institutions and consumers.
-- Public communications emphasize business capabilities over technical implementation.
+- The company serves both enterprise institutions and individual consumers.
+- Public communications emphasize business capabilities more than technical implementation details.
+
+---
+
+## Repository Goals
+
+This project demonstrates the ability to:
+
+- Conduct structured business research.
+- Organize unstructured information.
+- Distinguish evidence from interpretation.
+- Produce traceable analytical insights.
+- Communicate findings in a professional format.
 
 ---
 
@@ -97,4 +102,6 @@ Visual summaries and intelligence canvas
 
 This repository is an independent educational case study created using publicly available information.
 
-It is not affiliated with or endorsed by TransUnion CIBIL or TransUnion.
+It is **not affiliated with, endorsed by, or sponsored by TransUnion CIBIL or TransUnion**.
+
+All observations and insights represent the author's independent analysis based solely on publicly available sources.
