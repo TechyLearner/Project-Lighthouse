@@ -51,3 +51,30 @@ This suggests that the company operates across multiple stakeholder groups, requ
 
 - `01_Raw_Sources/official_website.md`
 - `01_Raw_Sources/careers.md`
+
+---
+
+## Insight 3: The Company Publicly Highlights Business Capabilities More Than Technical Implementation
+
+### Observation
+
+Across the official website and careers pages, TransUnion CIBIL consistently describes business capabilities such as analytics, credit risk assessment, and big data. However, it publicly shares very few implementation details about its technology stack.
+
+### Supporting Evidence
+
+- The official website mentions analytics, cloud-based solutions, and data science capabilities.
+- The careers pages reference big data technologies, data virtualization, and open-source technologies.
+- Neither source publicly specifies programming languages, cloud providers, databases, or engineering frameworks.
+
+### Why This Matters
+
+This suggests that the company communicates the business value of its technology while limiting disclosure of implementation details. For aspiring analysts and engineers, this highlights the importance of understanding business problems alongside technical skills.
+
+### Confidence
+
+**High**
+
+### Evidence Sources
+
+- `01_Raw_Sources/official_website.md`
+- `01_Raw_Sources/careers.md`
